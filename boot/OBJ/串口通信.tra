@@ -1,0 +1,35 @@
+*** Creating Trace Output File '..\OBJ\串口通信.tra' Ok.
+### Preparing for ADS-LD.
+### Creating ADS-LD Command Line
+### List of Objects: adding '"..\obj\main.o"'
+### List of Objects: adding '"..\obj\stm32f10x_it.o"'
+### List of Objects: adding '"..\obj\system_stm32f10x.o"'
+### List of Objects: adding '"..\obj\iap.o"'
+### List of Objects: adding '"..\obj\stmflash.o"'
+### List of Objects: adding '"..\obj\flash.o"'
+### List of Objects: adding '"..\obj\spi.o"'
+### List of Objects: adding '"..\obj\core_cm3.o"'
+### List of Objects: adding '"..\obj\startup_stm32f10x_cl.o"'
+### List of Objects: adding '"..\obj\misc.o"'
+### List of Objects: adding '"..\obj\stm32f10x_gpio.o"'
+### List of Objects: adding '"..\obj\stm32f10x_rcc.o"'
+### List of Objects: adding '"..\obj\stm32f10x_usart.o"'
+### List of Objects: adding '"..\obj\stm32f10x_flash.o"'
+### List of Objects: adding '"..\obj\stm32f10x_spi.o"'
+### List of Objects: adding '"..\obj\delay.o"'
+### List of Objects: adding '"..\obj\usart.o"'
+### ADS-LD Command completed:
+--cpu Cortex-M3 "..\obj\main.o" "..\obj\stm32f10x_it.o" "..\obj\system_stm32f10x.o" "..\obj\iap.o" "..\obj\stmflash.o" "..\obj\flash.o" "..\obj\spi.o" "..\obj\core_cm3.o" "..\obj\startup_stm32f10x_cl.o" "..\obj\misc.o" "..\obj\stm32f10x_gpio.o" "..\obj\stm32f10x_rcc.o" "..\obj\stm32f10x_usart.o" "..\obj\stm32f10x_flash.o" "..\obj\stm32f10x_spi.o" "..\obj\delay.o" "..\obj\usart.o" --strict --scatter "..\OBJ\串口通信.sct" 
+--autoat --summary_stderr --info summarysizes --map --xref --callgraph --symbols 
+--info sizes --info totals --info unused --info veneers 
+ --list ".\串口通信.map" -o "..\OBJ\串口通信.axf"### Preparing Environment (PrepEnvAds)
+### ADS-LD Output File: '..\OBJ\串口通信.axf'
+### ADS-LD Command File: '..\OBJ\串口通信.lnp'
+### Checking for dirty Components...
+### Creating CmdFile '..\OBJ\串口通信.lnp', Handle=0x00000924
+### Writing '.lnp' file
+### ADS-LD Command file '..\OBJ\串口通信.lnp' is ready.
+### ADS-LD: About to start ADS-LD Thread.
+### ADS-LD: executed with 0 errors
+### Updating obj list
+### LDADS_file() completed.

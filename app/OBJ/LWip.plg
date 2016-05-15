@@ -1,0 +1,11 @@
+<html>
+<body>
+<pre>
+<h1>µVision Build Log</h1>
+<h2>Project:</h2>
+D:\git\STM32F107\app\USER\LWip.uvproj
+Project File Date:  04/15/2016
+
+<h2>Output:</h2>
+Clean started: Project: 'LWip'
+   deleting intermediate output files for target 'LWip'
